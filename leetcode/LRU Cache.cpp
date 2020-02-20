@@ -11,7 +11,7 @@ Could you do both operations in O(1) time complexity?
 
 Example:
 
-LRUCache cache = new LRUCache( 2 /* capacity */ )
+LRUCache cache = new LRUCache( 2 capacity)
 */
 class LRUCache {    
 public:
